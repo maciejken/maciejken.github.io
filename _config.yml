@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: maciejken's homepage
 description: Bookmark this to keep an eye on my project updates!
-include: [".well-known"]
+include: [".well-known", "fasolki"]
