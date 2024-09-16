@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.maciejken.fasolkimobile",
+      "package_name": "com.maciejken.fasolki-dev",
       "sha256_cert_fingerprints": [
-        "4A:FC:E2:FB:1F:F9:28:BF:93:FA:83:72:72:1E:9B:20:D7:0E:6D:E6:69:67:0B:EE:DF:68:17:3A:D6:99:C8:18"
+        "99:F8:6B:77:4F:F3:0B:28:63:4F:DC:BC:0D:E0:F4:EE:10:EE:2F:F5:6C:5F:16:64:20:01:1A:60:B3:75:F3:0B"
       ]
     }
   }
