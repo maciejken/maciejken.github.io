@@ -5,6 +5,18 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.maciejken.fasolki",
+      "sha256_cert_fingerprints": [
+        "7C:8F:C0:F7:4D:4B:06:AB:08:44:67:39:F1:EC:3B:FC:20:C4:35:1C:0D:90:24:40:91:EA:BF:10:45:72:FF:96"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.maciejken.fasolkidev",
       "sha256_cert_fingerprints": [
         "47:F3:53:FE:B4:90:57:73:F8:16:72:CE:F4:08:ED:18:67:78:B3:9A:6A:A9:5B:52:6F:62:3E:A0:37:D1:62:FF"
