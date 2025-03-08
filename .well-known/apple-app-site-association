@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MY_TEAM.com.maciejken.fasolki",
+        "paths": [
+          "/fasolki/*"
+        ]
+      },
+      {
+        "appID": "MY_TEAM.com.maciejken.fasolkidev",
+        "paths": [
+          "/fasolki/*"
+        ]
+      }
+    ]
+  }
+}
